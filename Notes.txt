@@ -1,0 +1,16 @@
+Ordered List
+Unordered List
+
+
+1. Pial
+2. Logno
+3. jannat
+4. Arafat
+
+.Coding
+.Playing Game 
+.Dancing 
+
+ul => Unordered List => li tag , type = disc(defult) , circle , square , none.
+ol => Ordered List => li tag , type = a , 1 , i = roman number
+
